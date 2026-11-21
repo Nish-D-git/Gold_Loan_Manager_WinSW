@@ -53,7 +53,13 @@ Gold_Loan_Manager_WinSW/
 ## Project Information
 
 **Project:** Gold Loan Management Application  
-**Project Type:** B.Tech Major Project  
+**Project Type:** B.Tech Major Project 
+
+**Project Team:**
+- Nishant A. Deshmukh
+- Trisha S. More
+- Sanjeev S. Kambale
+- Kalpesh B. Patil
 
 ---
 
